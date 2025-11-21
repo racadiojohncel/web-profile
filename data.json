@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "fullName": "John Cel Racadio",
+    "bio": "Hi, I am John Cel, a BSIT student specializing in Web Development. I enjoy building interactive and user-friendly web projects that bring ideas to life.",
+    "links": {
+      "github": "https://github.com/racadiojohncel/web-profile"
+    }
+    },
+  "activities": [
+    {
+      "id": 1,
+      "title": "Frontend Development",
+      "experience": "I start by designing responsive web pages using HTML, CSS, and JavaScript, ensuring that they look great on any device. I enjoy creating interactive elements like sliders, buttons, and modals, adding animations to enhance user experience. Using frameworks like Tailwind or Bootstrap helps me speed up the styling process. Each form I create undergoes client-side validation to prevent errors, and I always test the interface to make sure it is intuitive and accessible."
+    },
+    {
+      "id": 2,
+      "title": "Backend Development",
+      "experience": "On the backend, I handle data management using JSON files and databases like MySQL or MongoDB. I build APIs that allow the frontend to communicate smoothly with the server, process form submissions, and ensure data integrity. Implementing authentication and authorization is crucial to keep user data secure. I enjoy solving logic problems and managing server-side processes using Node.js, PHP, or Python, making sure everything runs seamlessly behind the scenes."
+    },
+    {
+      "id": 3,
+      "title": "Web Project Management",
+      "experience": "Managing a web project starts with planning the website's structure and layout. I create mockups and wireframes using Figma to visualize the design. Testing the site across multiple browsers and devices helps me find and fix errors early. Debugging broken layouts and updating existing projects is a continuous process, and I find satisfaction in keeping the project organized, efficient, and user-friendly throughout its development."
+    },
+    {
+      "id": 4,
+      "title": "Learning & Experimentation",
+      "experience": "I dedicate time to learning new technologies and experimenting with coding challenges. Practicing JavaScript DOM manipulation helps me make dynamic web pages, while exploring frameworks like React or Vue.js broadens my skills. I enjoy experimenting with APIs to integrate real-world data, building small projects like to-do lists or calculators, and understanding version control with Git and GitHub to maintain clean and organized code."
+    }
+  ]
+}
